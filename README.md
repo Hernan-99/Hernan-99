@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Hernan-99/Hernan-99/main/banner.jpg"/>
 &nbsp;&nbsp;&nbsp;
 
-## Hola, Soy Hernán 👋
+# Hola, Soy Hernán 👋
 <p>Actualmente estudio una tecnicatura en programacion, sin embargo desde el año 2019 me capacito de forma autodidcata en todo lo que respecta a desarrollo y diseño web. Tengo una gran pasion por desarrollo Front End.</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://hernan-sanchez-portfolio.netlify.app/)&nbsp;
