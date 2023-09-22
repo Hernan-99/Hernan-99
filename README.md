@@ -1,29 +1,59 @@
+<img align="center" style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Hernan-99/Hernan-99/main/banner.jpg"/>
+&nbsp;&nbsp;&nbsp;
+
 ## Hola, Soy Hernán 👋
+<p>Actualmente estudio una tecnicatura en programacion, sin embargo desde el año 2019 me capacito de forma autodidcata en todo lo que respecta a desarrollo y diseño web. Tengo una gran pasion por desarrollo Front End.</p>
 
-[![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://hernan-sanchez-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://hernan-sanchez-portfolio.netlify.app/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchez-hernan-gabriel/)&nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://hernan-sanchez-portfolio.netlify.app/](https://www.linkedin.com/in/sanchez-hernan-gabriel/))
-
-
-- Estudiando📖: NodeJS
-
-<div>
-  <a href="https://github.com/Hernan-99">
-  <img height="180em" src="" />
-  <img height="180em" src="" />
+<div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hernan-99&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernan-99&hide_progress=true"/>
 </div>
 
-<!--
-**Hernan-99/Hernan-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Aprendizaje constante
+Considero que el aprendizaje continuo en el mundo de la tecnologia es necesario y es por eso que siempre estoy busco mantenerme actualizado con las últimas tendencias en desarrollo web.
+- actualemente estoy profundizando en NodeJS para complementar mis conocimientos basicos.
 
-Here are some ideas to get you started:
+### 🚀 Objetivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi objetivo es seguir creciendo en el ambito de la tecnologia y trabajar en proyectos desafiantes donde pueda demostrar y aplicar mis conocimientos, como asi tambien aprender algo nuevo en el proceso.
+
+## Mis skills de Front End 👨🏻‍💻
+
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img aling="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img aling="center" alt="Axios" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/>
+  <img aling="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</div>
+
+### Softwares de diseño 🎨
+
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img aling="center" alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  <img aling="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+</div>
+
+## Mis skills de Back End (basico) 👨🏻‍💻
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img aling="center" alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img aling="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img aling="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+  <img aling="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</div>
+
+## Cloud ☁️
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img aling="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img aling="center" alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</div>
