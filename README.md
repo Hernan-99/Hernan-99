@@ -9,7 +9,7 @@
 
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hernan-99&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernan-99&hide_progress=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernan-99&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ### 🌱 Aprendizaje constante
