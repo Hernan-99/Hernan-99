@@ -43,6 +43,7 @@ Mi objetivo es seguir creciendo en el ambito de la tecnologia y trabajar en proy
 
 ## Mis skills de Back End (basico) 👨🏻‍💻
 <div style="display: inline_block"><br/>
+  <img aling="center" alt="JAVA" src=""/>
   <img aling="center" alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img aling="center" alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
