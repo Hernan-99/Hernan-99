@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 # Hola, Soy Hernán 👋
-<p>Actualmente soy estudiante de la Tecnicatura en Programación en la Universidad Nacional Guillermo Brown (UNaB), sin embargo desde el año 2019 me capacito de forma autodidcata en todo lo que respecta a desarrollo y diseño web. Tengo una gran pasion por desarrollo Front End.</p>
+<p>Actualmente soy estudiante de la Tecnicatura en Programación en la Universidad Nacional Guillermo Brown (UNaB) y desde el año 2019 me capacito de forma autodidcata en todo lo que respecta a desarrollo y diseño web. Tengo una gran pasion por desarrollo Frontend.</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://hernan-sanchez-portfolio.netlify.app/)&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchez-hernan-gabriel/)&nbsp;
@@ -20,7 +20,7 @@ Considero que el aprendizaje continuo en el mundo de la tecnologia es necesario 
 
 Mi objetivo es seguir creciendo en el ambito de la tecnologia y trabajar en proyectos desafiantes donde pueda demostrar y aplicar mis conocimientos, como asi tambien aprender algo nuevo en el proceso.
 
-## Mis skills de Front End 👨🏻‍💻
+## Frontend 👨🏻‍💻
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,7 +43,7 @@ Mi objetivo es seguir creciendo en el ambito de la tecnologia y trabajar en proy
   <img aling="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div>
 
-## Mis skills de Back End (basico) 👨🏻‍💻
+## Backend (basico) 👨🏻‍💻
 <div style="display: inline_block"><br/>
   <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img aling="center" alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
