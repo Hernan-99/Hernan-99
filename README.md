@@ -14,7 +14,7 @@
 
 ### 🌱 Aprendizaje constante
 Considero que el aprendizaje continuo en el mundo de la tecnologia es necesario y es por eso que siempre estoy busco mantenerme actualizado con las últimas tendencias en desarrollo web.
-- actualemente estoy profundizando en NodeJS para complementar mis conocimientos basicos.
+- actualemente estoy profundizando en NodeJS para complementar mis conocimientos.
 
 ### 🚀 Objetivo
 
@@ -43,7 +43,7 @@ Mi objetivo es seguir creciendo en el ambito de la tecnologia y trabajar en proy
   <img aling="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div>
 
-## Backend (basico) 👨🏻‍💻
+## Backend 👨🏻‍💻
 <div style="display: inline_block"><br/>
   <img aling="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E"/>
   <img aling="center" alt="Expressjs" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23000000"/>
