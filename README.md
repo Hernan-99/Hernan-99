@@ -2,7 +2,6 @@
 &nbsp;&nbsp;&nbsp;
 
 # Hola, Soy Hernán 👋
-<p>Actualmente soy estudiante de la Tecnicatura en Programación en la Universidad Nacional Guillermo Brown (UNaB) y desde el año 2019 me capacito de forma autodidcata en todo lo que respecta a desarrollo y diseño web. Tengo una gran pasion por desarrollo de software</p>
 
 <!--[[[Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://hernan-sanchez-portfolio.netlify.app/)&nbsp;
 [[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchez-hernan-gabriel/)&nbsp;](url)-->
