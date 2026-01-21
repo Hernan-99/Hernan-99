@@ -33,7 +33,7 @@
 
 <!-- BACKEND -->
 <div style="background: linear-gradient(135deg,#6DB33F,#1f1f2e); padding: 20px; border-radius: 15px; width: 280px; text-align:center; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  <h3 style="color:white;">⚙️ Backend</h3>
+  <h3 style="color:white;">⚙️ Backend (básico/intermedio)</h3>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
