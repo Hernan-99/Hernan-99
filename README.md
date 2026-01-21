@@ -3,7 +3,7 @@
 # 👋 Hola, Soy Hernán Sánchez
 
 > 🌟 **Desarrollador Fullstack | Con fuerte orientación al Frontend**  
-> 💡 Me gusta crear soluciones que combinen tecnologías modernas**  
+> 💡 **Me gusta crear soluciones que combinen tecnologías modernas**  
 
 ---
 <div style="display:flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 40px;">
