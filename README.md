@@ -2,8 +2,8 @@
 
 # 👋 Hola, Soy Hernán Sánchez
 
-> 🌟 **Desarrollador Fullstack | Con fuerte orientación al Frontend**  
-> 💡 **Me gusta crear soluciones que combinen tecnologías modernas**  
+> **Desarrollador Fullstack | Con fuerte orientación al Frontend**  
+> **Me gusta crear soluciones que combinen tecnologías modernas**  
 
 ---
 <div style="display:flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 40px;">
@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 Stack de Desarrollo
+## Stack de Desarrollo
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## ☁️ Cloud & Hosting
+## Cloud & Hosting
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-bottom:40px;">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
